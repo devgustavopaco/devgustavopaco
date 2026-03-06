@@ -1,7 +1,5 @@
 ## Olá Eu sou o Gustavo Paçó🤙
 
-- 🔭 Hoje estou a procura de um estágio na área de programação
-- 🌱 Estudando na PUCPR(ciências da computação). Estudando no momento Next.js 
 - 💬 Contate-me no email: gustavopacosa@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavopaco__/?next=%2F)
